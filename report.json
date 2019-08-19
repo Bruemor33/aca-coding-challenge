@@ -1,0 +1,128 @@
+{
+    "ClassA": [
+        {
+            "Student Name": "Fernando Powell",
+            "Grade": 92
+        },
+        {
+            "Student Name": "William Norton",
+            "Grade": 70
+        },
+        {
+            "Student Name": "Dalton Boone",
+            "Grade": 88
+        },
+        {
+            "Student Name": "Edwardo French",
+            "Grade": 52
+        },
+        {
+            "Student Name": "Antoinette Santiago",
+            "Grade": 82
+        },
+        {
+            "Student Name": "Rena Hayden",
+            "Grade": 99
+        },
+        {
+            "Student Name": "Tyson Best",
+            "Grade": 75
+        },
+        {
+            "Student Name": "Eliza Tyler",
+            "Grade": 62
+        },
+        {
+            "Student Name": "Edith Adkins",
+            "Grade": 0
+        },
+        {
+            "Student Name": "Charlotte Villanueva",
+            "Grade": 95
+        }
+    ],
+    "ClassB": [
+        {
+            "Student Name": "Tammy Cunningham",
+            "Grade": 99.9
+        },
+        {
+            "Student Name": "Marcia Dunlap",
+            "Grade": 43.2
+        },
+        {
+            "Student Name": "Emma Savage",
+            "Grade": 65.4
+        },
+        {
+            "Student Name": "Janna Fleming",
+            "Grade": 88.5
+        },
+        {
+            "Student Name": "Emilio Rangel",
+            "Grade": 92.1
+        },
+        {
+            "Student Name": "Martha Mcclure",
+            "Grade": 94.6
+        },
+        {
+            "Student Name": "Jason Vang",
+            "Grade": 75.3
+        },
+        {
+            "Student Name": "Rosa Chavez",
+            "Grade": 78.9
+        },
+        {
+            "Student Name": "Hayden Boyle",
+            "Grade": 89.1
+        },
+        {
+            "Student Name": "Margarita Marks",
+            "Grade": 79.5
+        }
+    ],
+    "ClassC": [
+        {
+            "Student Name": "Aileen Yoder",
+            "Grade": 83
+        },
+        {
+            "Student Name": "Maryanne Anderson",
+            "Grade": 66
+        },
+        {
+            "Student Name": "Benton Donaldson",
+            "Grade": 52
+        },
+        {
+            "Student Name": "Myrtle Ingram",
+            "Grade": 98
+        },
+        {
+            "Student Name": "Lina Beck",
+            "Grade": 95
+        },
+        {
+            "Student Name": "Alisa Roy",
+            "Grade": 93
+        },
+        {
+            "Student Name": "Faye Cervantes",
+            "Grade": 84
+        },
+        {
+            "Student Name": "Brooks Villarreal",
+            "Grade": 82
+        },
+        {
+            "Student Name": "Jarrett Henderson",
+            "Grade": 75
+        },
+        {
+            "Student Name": "Darlene Mcconnell",
+            "Grade": 73
+        }
+    ]
+}
