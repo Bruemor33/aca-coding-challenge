@@ -13,7 +13,7 @@
         }
         if (data['ClassB']) {
             // set className for argument
-            var className = 'Class b';
+            var className = 'Class B';
 
             sortGrades(data['ClassB'], className);
         }
@@ -62,18 +62,24 @@
         var rawAverage = average(grades);
         var roundedAvg = Math.round(rawAverage);
 
-        console.log(className + ' had an average grade of: ' + roundedAvg);
-        console.log(className + ' has ' + totalStudents + ' students used in average!');
-
         // output conditional for zeroStudents array
         if (zeroStudents.length > 0) {
             for (var i = 0; i < zeroStudents.length; i++) {
-                console.log(zeroStudents[i]);
+                var oStudents = zeroStudents[i] + ' got a zero.';
             }
         }
         else {
-            console.log('No students got a 0!');
+            var oStudents = 'No students got a 0!';
         }
+
+        // create html output
+        document.getElementById('app').insertAdjacentHTML(
+            'afterbegin',
+            '<h3>' + className + '</h3>' +
+            '<p>' + 'The class had an average grade of: ' + roundedAvg + '</p>' +
+            '<p>' + totalStudents + ' students used in average!' + '</p>' +
+            '<p>' + oStudents + '</p>'
+        );
     }
 
     // invoke new http request
